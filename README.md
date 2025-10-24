@@ -18,3 +18,7 @@
 - 🚀 **Zero-trust security** - no standing privileges
 
 ## 🏗️ Architecture
+🖥️ SEGURIDAD (192.168.8.215) 🗄️ EMPRESA (192.168.X) 👥 AD (192.168.8.40)
+Bao + Portal Web PostgreSQL Database Active Directory
+JIT Credential Generator Secure Data Storage User Authentication
+Access Control Temporary User Access SSO Integration
