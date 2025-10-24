@@ -1,0 +1,6 @@
+## 🚀 Quick Start - 5 Minutes Deployment
+
+### Option 1: One-Command Deployment (Recommended)
+```bash
+# On each machine, run:
+curl -sSL https://raw.githubusercontent.com/your-org/jit-postgres-enterprise/main/scripts/deploy/deploy-complete.sh | bash
