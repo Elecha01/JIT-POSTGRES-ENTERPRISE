@@ -1,0 +1,8 @@
+# 1. On EMPRESA machine (PostgreSQL):
+curl -sSL https://raw.githubusercontent.com/your-org/jit-postgres-enterprise/main/scripts/deploy/deploy-empresa.sh | bash
+
+# 2. On SEGURIDAD machine (JIT System):
+curl -sSL https://raw.githubusercontent.com/your-org/jit-postgres-enterprise/main/scripts/deploy/deploy-seguridad.sh | bash
+
+# 3. Configure integration:
+curl -sSL https://raw.githubusercontent.com/your-org/jit-postgres-enterprise/main/scripts/deploy/configure-integration.sh | bash
